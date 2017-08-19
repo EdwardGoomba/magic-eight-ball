@@ -38,3 +38,6 @@ switch(randomNumber) {
     break;
 
                    }
+
+console.log('The unworthy asked: ' + userQuestion);
+console.log('The illustrious eight ball sayeth: ' + eightBall);
